@@ -1,0 +1,6 @@
+{
+  "name": "Vận hành Hệ thống HVAC & BMS",
+  "description": "Hệ thống AI ghi thông số vận hành BMS theo biểu mẫu chuẩn B01.QT04/SGN-KTG-ĐQT, hỗ trợ nhận dạng màn hình HVAC, phân tích dữ liệu chuyên sâu và đồng bộ Google Workspace (Drive, Sheets, Gmail, Forms).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
